@@ -16,21 +16,21 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <user>
-<name>"Иван"</name>
-<surname>"Иванов"</surname>
-<patronymic>"Иванович"</patronymic>
-<age>"30"</age>
-<phone>"Москва"</phone>
-<birthplace>"+7 926 766 48 48"</birthplace>
+<name>Иван</name>
+<surname>Иванов</surname>
+<patronymic>Иванович</patronymic>
+<age>30</age>
+<phone>+7 926 766 48 48</phone>
+<birthplace>Москва</birthplace>
 </user>
 
 <!-- Вывод:
 
 object {1}
     user {6}
-        name:\"Иван\"
-        surname:\"Иванов\"
-        patronymic:\"Иванович\"
-        age:\"30\"
-        phone:\"Москва\"
-        birthplace:\"+7 926 766 48 48\" -->
+        name:Иван
+        surname:Иванов
+        patronymic:Иванович
+        age:30
+        phone:Москва
+        birthplace:+7 926 766 48 48 -->
